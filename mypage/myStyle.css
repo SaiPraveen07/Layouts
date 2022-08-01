@@ -1,0 +1,53 @@
+* .nav-five-link {
+  color: #949292 !important;
+}
+
+* .contain-heading {
+  color: #666565;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+* .contain-details {
+  padding: 0px 90px 0px 90px;
+  color: #949292 !important;
+}
+
+* .grid-divide {
+  margin: 20px 30px 30px 30px !important;
+}
+
+* .grid-divide-footer {
+  margin: 50px 30px 30px 30px !important;
+}
+
+* .grid-title {
+  text-align: center;
+}
+
+* .organic-para {
+  right: 0px;
+  text-align: center;
+  width: 100%;
+  padding: 10px;
+  font-size: 12px;
+  font-weight: 500;
+  color: #949292 !important;
+}
+
+* .organic-para-footer {
+  right: 0px;
+  text-align: center;
+  width: 100%;
+  padding: 15px;
+  font-size: 12px;
+  font-weight: 500;
+  color: #949292 !important;
+}
+
+@media only screen and (max-width: 830px) {
+  * .grid-title {
+    width: calc(50% - 0px) !important;
+  }
+}
+/*# sourceMappingURL=myStyle.css.map */
